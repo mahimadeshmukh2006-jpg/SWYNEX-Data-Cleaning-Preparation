@@ -32,7 +32,7 @@ Titanic passenger dataset from the Seaborn-data public GitHub repository.
 - `titanic_cleaned.csv`
 - `cleaning_audit.csv`
 - `cleaning_summary.txt`
-- `data - cleaning.ipynb`
+- `data_cleaning.ipynb`
 
 ## Conclusion
 The Titanic dataset was inspected, cleaned, validated and exported successfully as part of SWYNEX Internship Task 1..
